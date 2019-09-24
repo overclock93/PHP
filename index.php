@@ -46,7 +46,7 @@
                 <option>Celulares</option>
                 </select>
             </div>
-            <div class="form-group">s
+            <div class="form-group">
                 <label>Fornecedor</label>
                 <select class="form-control" name="fornecedor">
                 <option>Fornecedor A</option>

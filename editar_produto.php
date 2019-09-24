@@ -48,7 +48,7 @@ echo $id = $_GET['id'];
             ?>
             <div class="form-group">
                 <label>Número do Produto</label>
-                <input type="number" class="form-control" name="nroproduto">
+                <input type="number" class="form-control" name="nroproduto" value="<?php echo $nroproduto ?>" style="display: disabled">
             </div>
             <div class="form-group">
                 <label>Nome do Produto</label>
